@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.50.5](https://www.github.com/googleapis/gapic-generator-python/compare/v0.50.4...v0.50.5) (2021-07-13)
+
+
+### Bug Fixes
+
+* fix rest transport unit test and required query prams handling ([#951](https://www.github.com/googleapis/gapic-generator-python/issues/951)) ([b793017](https://www.github.com/googleapis/gapic-generator-python/commit/b7930177da9a8be556bf6485febcc0a9bdef897b))
+
 ### [0.50.4](https://www.github.com/googleapis/gapic-generator-python/compare/v0.50.3...v0.50.4) (2021-06-30)
 
 
